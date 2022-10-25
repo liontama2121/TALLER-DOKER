@@ -1,4 +1,4 @@
-# TAREA INTRODUCCIÓN MVN-GITY HEROKU
+# TAREA INTRODUCCIÓN TALLER-DOKER
 
 >La tarea costa en 
 ## Pre-requisitos
@@ -67,12 +67,6 @@
 > > ```
 > > mvn test -Dtest=TestClient
 
-### Despliegue web con Heroku y JSClient
-> Para desplegar el programa directamente desde el servicio de ```Heroku``` junto con nuestro cliente ```JSClient``` podemos pulsar el siguiente boton.
->
-> [![](/image/deploy.PNG)](https://tallermolina.herokuapp.com/JSClient)
-
-## Construido con
 
 * [Maven](https://es.wikipedia.org/wiki/Maven): Herramienta la cual permite realizar la construción de proyectos, realizarles pruebas y otras funciones.
 * [Git](https://es.wikipedia.org/wiki/Git): Software de control de versionamiento centralizado.

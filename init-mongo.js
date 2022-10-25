@@ -1,0 +1,10 @@
+db.createUser(
+{
+user:"juank2121",
+pwd:"juan133812",
+roles:[{
+role:"readWrite",
+db:"Bd-RoundRobin"
+}]
+}
+)
